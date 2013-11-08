@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="All" />
+	<File name="CDemo.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2979" topLine="85" />
+	</File>
+	<File name="CDemo.h" open="0" top="0" tabpos="0">
+		<Cursor position="1834" topLine="76" />
+	</File>
+	<File name="CMainMenu.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3946" topLine="306" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="15" />
+	</File>
+	<File name="..\..\..\p5\libp5glove_0.2_win32\src\p5glove.c" open="0" top="0" tabpos="0">
+		<Cursor position="6897" topLine="69" />
+	</File>
+</CodeBlocks_layout_file>
